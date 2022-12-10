@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+.center-text{
+    text-align: left;
+    font-family: 'Varela Round', sans-serif;
+
+    
+}
+head,body{
+    background-color: skyblue;
+    background-color: #cccccc;
+
+}
+/* .hero-image {
+     background-image: url("img.jpg");
+    background-color: #cccccc;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;} */
+#footer{
+    background-color: rgb(43, 42, 42);
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+#h1{
+    color:white;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-family: 'Varela Round', sans-serif;
+    
+
+
+}
+#header{
+    /* background-image: url("img.jpg"); */
+    height: 35px;
+    width: 25px;
+    background-repeat: no-repeat;
+    width:auto;
+    color: white;
+}
+#cities{
+    color: azure;
+    font-size: 50px;
+    font-family: 'Varela Round', sans-serif;
+}
+#metrocities{
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+}
+#tbody{
+    color: white;
+}
+.text-start{
+    color: wheat;
+    font-family: 'Varela Round', sans-serif;
+}
+.fs-5 text{
+    background-color: white;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+.navbar .nav-item .nav-link {
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.day {
+    background-image: url("imgday.jpg");
+    background-color: #cccccc;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+.afternoon{
+    background-image: url("img.jpg");
+    background-color: #cccccc;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.night {
+    background-image: url("imgnight2.jpg");
+    background-color: #cccccc;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  #text{
+    color: aliceblue;
+  }
