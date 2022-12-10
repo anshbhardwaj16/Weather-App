@@ -118,7 +118,8 @@ else{
 	document.body.className+="night";
 	welcome.innerHTML="Welcome to Ninja Weather!" + "<br />" +"Good Evening!";
 }
-getWeather("Meerut");
 getWeather2();
+getWeather("Meerut");
+
 
 
