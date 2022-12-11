@@ -69,10 +69,11 @@ head,body{
     color: white;
 }
 .day {
-    background-image: url("428695.jpg");
+    background-image: url("428713.jpg");
     background-color: #cccccc;
-    height: 100%;
-    background-position: center;
+    height: 1000px;
+    width: 100%;
+    /* background-position: center; */
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
